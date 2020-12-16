@@ -1,3 +1,5 @@
 The chi-square or Fisher’s exact test was used to compare categorical data, 
 and Student’s t-test or the Mann-Whitney U test to compare continuous data, as appropriate. 
 The quantile-quantile normality plot and Kolmogorov-Smirnov test were used to assess whether a continuous variable was normally distributed.
+Regression:
+Analyses were performed using R4.0.2 and STATA 13.0 at a 5% significance level. LASSO and CART models were developed using the glmnet, rpart and rattle packages in R.
