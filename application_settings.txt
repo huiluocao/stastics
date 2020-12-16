@@ -3,3 +3,4 @@ and Student’s t-test or the Mann-Whitney U test to compare continuous data, as
 The quantile-quantile normality plot and Kolmogorov-Smirnov test were used to assess whether a continuous variable was normally distributed.
 Regression:
 Analyses were performed using R4.0.2 and STATA 13.0 at a 5% significance level. LASSO and CART models were developed using the glmnet, rpart and rattle packages in R.
+https://blog.csdn.net/hzw19920329/article/details/77200475
