@@ -1,0 +1,1 @@
+Pairwise comparisons were performed using a linear mixed model (lme4 v1.1-23 and lmerTest v3.1-1 packages in R).
